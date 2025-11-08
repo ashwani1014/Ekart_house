@@ -3,7 +3,7 @@ It allows users to view, add, and manage house rental listings with features lik
 
 Tech Stack:
 
-Frontend: HTML, CSS, EJS
+#Frontend: HTML, CSS, EJS
 Backend: Node.js, Express.js
 Database: MongoDB
 
