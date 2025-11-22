@@ -8,7 +8,7 @@ Backend: Node.js, Express.js
 Database: MongoDB
 
 Features:
-
+CRUD OPERATIONS
 Add new rental listings
 View available houses
 Responsive layout and clean UI
